@@ -17,8 +17,8 @@ To start testing out this data:
 1. [Install the Mortar Development Framework](http://help.mortardata.com/#!/install_mortar_development_framework)
 1.  Clone this repository to your computer and register it as a project with Mortar:
 
-        git clone git@github.com:mortardata/mortar-examples.git
-        cd mortar-examples
+        git clone git@github.com:davidfauth/ACACosts
+        cd ACACosts
         mortar register mortar-examples
 
 Once you've setup the project, use the `mortar illustrate` command to show data flowing through a given script.  Use `mortar run` to run the script on a Hadoop cluster.
